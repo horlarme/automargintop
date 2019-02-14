@@ -1,6 +1,6 @@
 {
   "name": "@horlarme/automargintop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Automatically set margin of element to make it stay at the middle of page. Useful for modal and likes.",
   "main": "index.js",
   "scripts": {

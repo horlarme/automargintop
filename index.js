@@ -18,7 +18,7 @@ function autoMarginTop(element) {
      */
     else if (computedHeight < deviceHeight) {
         let remainingSize = deviceHeight - computedHeight,
-        newMargin = remainingSize / 2;
+            newMargin = remainingSize / 2;
         element.style.marginTop = newMargin + 'px';
     }
     /**
