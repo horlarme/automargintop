@@ -1,0 +1,27 @@
+{
+  "name": "@horlarme/automargintop",
+  "version": "1.0.0",
+  "description": "Automatically set margin of element to make it stay at the middle of page. Useful for modal and likes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horlarme/automargintop.git"
+  },
+  "keywords": [
+    "margin",
+    "float",
+    "center",
+    "center",
+    "align",
+    "margin"
+  ],
+  "author": "Lawal Oladipupo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horlarme/automargintop/issues"
+  },
+  "homepage": "https://github.com/horlarme/automargintop#readme"
+}
